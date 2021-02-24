@@ -67,7 +67,6 @@ background-image: url(images/tom1.png)
 .red {
   color: red;
 }
-
 .drum {
   outline: none;
   border: 10px solid #404B69;
@@ -85,3 +84,9 @@ background-image: url(images/tom1.png)
   margin: 10px;
   background-color: white;
 }
+.fa { 
+  color: blue;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 19px; 
+ } 
