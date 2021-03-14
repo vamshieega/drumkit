@@ -42,7 +42,6 @@ function makeSound(key) {
             break;
     }
 }
-
 function buttonAnimation(currentKey){
      
      var  pressedkey=  document.querySelector("."+currentKey)
